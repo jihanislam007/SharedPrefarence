@@ -82,6 +82,7 @@
                         android:textColorHint="#FFFFFF"
                         android:textColor="#FFFFFF"/>
                 </LinearLayout>
+
             </LinearLayout>
         </LinearLayout>
 
@@ -250,5 +251,7 @@
 
             </LinearLayout>
         </LinearLayout>
+
     </LinearLayout>
+
 </LinearLayout>
